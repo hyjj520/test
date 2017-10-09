@@ -1,0 +1,1 @@
+webpackJsonp([1],{15:function(n,o,c){c(16),console.log("index.js");const e=c(0);alert(e)},16:function(n,o){}},[15]);
